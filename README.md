@@ -17,4 +17,4 @@ IBM Certified Data Scientist | NVIDIA Certified Deep Learning Engineer
 
 Open to collaboration on AI/ML projects and research opportunities. Feel free to explore my repositories and reach out.
 
-**Contact:** sk9109182@gmail.com | [LinkedIn](https://www.linkedin.com/in/shaheer-khan-689a44265/)
+**Contact:** muhdshaheerkhan27@gmail.com | [LinkedIn](https://www.linkedin.com/in/shaheer-khan-689a44265/)

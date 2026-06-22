@@ -2,7 +2,7 @@
 
 I am a Software Engineering student at the University of Karachi (UBIT) with a strong focus on Artificial Intelligence and Machine Learning. My interests include Computer Vision, Natural Language Processing, and Generative AI, with hands-on experience building production-grade AI systems.
 
-I have conducted research on semantic segmentation using Spatial Attention U-Net for satellite imagery under the supervision of Dr. Humera Bashir. I am also currently doing internship at tynovate studio as a Ai Chatbot Engineer completed and have also completed internships in Data Analytics and Software Engineering at Accenture and Walmart.
+I have conducted research on semantic segmentation using Spatial Attention U-Net for satellite imagery under the supervision of Dr. Humera Bashir. I am also currently doing internship at Tynovate Studio as a Ai Chatbot Engineer completed and have also completed internships in Data Analytics and Software Engineering at Accenture and Walmart.
 
 **Core Expertise:**
 Deep Learning (PyTorch, TensorFlow) • Computer Vision (YOLOv9, U-Net, ByteTrack) • Generative AI (Llama 3.2, PEFT, QLoRA, RAG) • NLP Systems (LangChain, LangGraph) • Vector Databases (FAISS, Qdrant) • MLOps (Docker, ONNX, FastAPI)

@@ -16,5 +16,5 @@ Deep Learning (PyTorch, TensorFlow) • Computer Vision (YOLOv9, U-Net, ByteTrac
 IBM Certified Data Scientist | NVIDIA Certified Deep Learning Engineer
 
 Open to collaboration on AI/ML projects and research opportunities. Feel free to explore my repositories and reach out.
-
+ 
 **Contact:** muhdshaheerkhan27@gmail.com | [LinkedIn](https://www.linkedin.com/in/shaheer-khan-689a44265/)

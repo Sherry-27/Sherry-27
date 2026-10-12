@@ -1,20 +1,19 @@
 ## Shaheer Khan
 
-I am a Software Engineering student at the University of Karachi (UBIT) with a strong focus on Artificial Intelligence and Machine Learning. My interests include Computer Vision, Natural Language Processing, and Generative AI, with hands-on experience building production-grade AI systems.
+I build AI systems that are meant to hold up outside a demo.
 
-I have conducted research on semantic segmentation using Spatial Attention U-Net for satellite imagery under the supervision of Dr. Humera Bashir. I have also completed internships in Data Analytics and Software Engineering at Accenture and Walmart.
+At Tynovate Studio, I built NexusChat and DocIQ, two RAG products that search PDFs, Word files, and web pages, then return cited answers in real time. I was recognized as Intern of the Month.
 
-**Core Expertise:**
-Deep Learning (PyTorch, TensorFlow) • Computer Vision (YOLOv9, U-Net, ByteTrack) • Generative AI (Llama 3.2, PEFT, QLoRA, RAG) • NLP Systems (LangChain, LangGraph) • Vector Databases (FAISS, Qdrant) • MLOps (Docker, ONNX, FastAPI)
+I’ve also built:
+• A multi-hop RAG agent that breaks down difficult questions and checks whether its evidence is good enough, reaching 0.91 faithfulness on RAGAS
+• A number plate recognition system running at 43 FPS with 95% mAP@0.5
+• A Llama 3.2 medical model fine-tuned with QLoRA by training just 0.35% of its parameters
 
-**Recent Projects:**
-- Automatic Number Plate Recognition system with 95% mAP@0.5 and real-time inference
-- Agentic multi-hop RAG system for cross-document reasoning over 100+ documents using LangGraph, hybrid retrieval, and RAGAS evaluation
-- Medical reasoning LLM fine-tuned using QLoRA with 87% accuracy while training only 0.35% of parameters
+I mostly work with Python, Agno, n8n, WATI, Make.com, LangGraph, FastAPI, PyTorch, Docker, and AWS.
 
-**Certifications:**
-IBM Certified Data Scientist | NVIDIA Certified Deep Learning Engineer
+NVIDIA Certified Deep Learning Engineer. IBM Certified Data Scientist. 93.3rd percentile in the HEC-PASHA National Skills Competency Test.
 
-Open to collaboration on AI/ML projects and research opportunities. Feel free to explore my repositories and reach out.
+Open to AI/ML engineering roles.
  
-**Contact:** muhdshaheerkhan27@gmail.com | [LinkedIn](https://www.linkedin.com/in/shaheer-khan-689a44265/)
+**Contact:** muhdshaheerkhan27@gmail.com |  [Portfolio](https://muhdshaheer.vercel.app/) |  [LinkedIn](https://www.linkedin.com/in/shaheer-khan-689a44265/)
+ 
